@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/-Go-03ACD7?style=flat&logo=go&logoColor=white)
 -->
 
-|![Anpigon's github stats](https://github-readme-stats.vercel.app/api?username=anpigon&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&locale=en)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpigon&layout=compact&hide=ruby,objective-c,html)|
+|![Anpigon's github stats](https://github-readme-stats.vercel.app/api?username=anpigon&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&locale=en)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpigon&layout=compact&hide=ruby,objective-c,html,css)|
 |-|-|
 
 ---
