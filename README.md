@@ -37,6 +37,7 @@
 
 ---
 
-[![Video Label](http://img.youtube.com/vi/Tx3kprTyDgo/mqdefault.jpg)](https://youtu.be/Tx3kprTyDgo?t=0s)
+[![687474703a2f2f696d672e796f75747562652e636f6d2f76692f5478336b7072547944676f2f6d7164656661756c742e6a7067](https://github.com/anpigon/anpigon/assets/3969643/46b16379-ffb8-4eb8-93e5-bb38b6df1792)](https://youtu.be/Tx3kprTyDgo)
+
 > I'm Not Tired. I'm Not Tired At All
 
