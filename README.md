@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center"><b>I'm Anpigon, Front-end Developer.</b></p>
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=anpigon&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=transparent" />
+
 안녕하세요. 저는 생성형 AI(GPT와 같은 기술) 그리고 블록체인에 깊은 관심을 가지고 있습니다. 그리고 생산성 향상 도구와 업무 자동화에 대한 열정이 매우 큽니다. 이러한 최신 기술들을 통해 일상과 업무의 효율성을 극대화하는 방법을 모색하고 있으며, 이 분야에서의 지속적인 학습과 성장을 추구하고 있습니다. 
 
-저는 스팀잇 커뮤니티에서 활발히 활동하고 있으며, 최근에는 제 스팀잇 활동에 대한 인터뷰가 업로드되었습니다.<br>저에 대해 더 알고 싶으시다면, [스팀잇에서의 인터뷰](https://steemit.com/hive-111300/@ubongudofot/the-interview-showcase-81-exclusive-talk-with-a-korean-developer-blogger) 내용을 확인해 보시는 것을 추천드립니다.  
+저는 스팀잇 커뮤니티에서 활발히 활동하고 있으며, 최근에는 제 스팀잇 활동에 대한 인터뷰가 업로드되었습니다. 저에 대해 더 알고 싶으시다면, [스팀잇에서의 인터뷰](https://steemit.com/hive-111300/@ubongudofot/the-interview-showcase-81-exclusive-talk-with-a-korean-developer-blogger) 내용을 확인해 보시는 것을 추천드립니다.  
 
 제 경험과 생각을 공유하는 것을 매우 좋아하며, 같은 관심사를 가진 분들과의 교류를 기대합니다.
 
