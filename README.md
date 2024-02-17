@@ -11,9 +11,8 @@
 - Steemit: [steemit.com/@anpigon](https://steemit.com/@anpigon/)
 - Digital Garden: [anpigon.pages.dev](https://anpigon.pages.dev/)
 
-<br/>
-
 <!--
+
 #### Tech & Tools Preference
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,17 +34,18 @@
 ![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 #### Other Languages I know
+![](https://img.shields.io/badge/-Flutter-51BFF0?style=flat&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Go-03ACD7?style=flat&logo=go&logoColor=white)
--->
 
 ![Anpigon's github stats](https://github-readme-stats.vercel.app/api?username=anpigon&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpigon&layout=compact&hide=ruby,objective-c,html,css)
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=anpigon)](https://www.codenary.co.kr/user-profile/detail/anpigon?github_ride=true&utm_source=github)
 
 [![687474703a2f2f696d672e796f75747562652e636f6d2f76692f5478336b7072547944676f2f6d7164656661756c742e6a7067](https://github.com/anpigon/anpigon/assets/3969643/46b16379-ffb8-4eb8-93e5-bb38b6df1792)](https://youtu.be/Tx3kprTyDgo)
 
 > I'm Not Tired. I'm Not Tired At All
+
+-->
 
