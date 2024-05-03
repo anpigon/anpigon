@@ -13,6 +13,10 @@
 - Steemit: [steemit.com/@anpigon](https://steemit.com/@anpigon/)
 - Digital Garden: [anpigon.pages.dev](https://anpigon.pages.dev/)
 
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpigon&layout=compact&hide=html,css,scss,makefile,objective-c,starlark,ruby,swift,dockerfile,kotlin,shell)
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanpigon&edge_flat=true&title=hits)
 <!--
 
 #### Tech & Tools Preference
